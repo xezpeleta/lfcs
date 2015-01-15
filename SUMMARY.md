@@ -4,11 +4,11 @@ Training resources for LFCS certification (Linux Foundation Certified System Adm
 
 ## Overview of Domains and Competencies
 
-**Command-line**
+### Command-line
 - Editing text files on the command line
 - Manipulating text files from the command line
 
-**Filesystem & storage**
+### Filesystem & storage
 - File attributes
 - Archiving and compressing files and directories
 - Finding files on the filesystem
@@ -20,7 +20,7 @@ Training resources for LFCS certification (Linux Foundation Certified System Adm
 - Assembling partitions as RAID devices
 - Troubleshooting filesystem issues
 
-**Local system administration**
+### Local system administration
 - Managing local users accounts
 - Managing user accounts
 - Managing user account attributes
@@ -33,12 +33,13 @@ Training resources for LFCS certification (Linux Foundation Certified System Adm
 - Creating backups
 - Restoring backed up data
 
-**Local security**
+### Local security
 - Accessing the root account
 - Using sudo to manage access to the root account
 
-**Shell scripting**
+### Shell scripting
 - Basic bash shell scripting
 
-**Software management**
-- Installing software packages
+### Software management
+
+- Installing software package
