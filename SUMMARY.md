@@ -8,6 +8,7 @@ Training resources for LFCS certification (Linux Foundation Certified System Adm
 - Editing text files on the command line
 - Manipulating text files from the command line
 
+
 ### Filesystem & storage
 - File attributes
 - Archiving and compressing files and directories
