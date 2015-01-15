@@ -9,29 +9,29 @@ Training resources for LFCS certification (Linux Foundation Certified System Adm
 - Manipulating text files from the command line
 
 **Filesystem & storage**
-- Archiving and compressing files and directories
-- Assembling partitions as RAID devices
-- Configuring swap partitions
 - File attributes
+- Archiving and compressing files and directories
 - Finding files on the filesystem
 - Formatting filesystems
+- Configuring swap partitions
 - Mounting filesystems automatically at boot time
 - Mounting networked filesystems
 - Partitioning storage devices
+- Assembling partitions as RAID devices
 - Troubleshooting filesystem issues
 
 **Local system administration**
-- Creating backups
-- Creating local user groups
-- Managing file permissions
-- Managing fstab entries
 - Managing local users accounts
-- Managing the startup process and related services
 - Managing user accounts
 - Managing user account attributes
-- Managing user processes
-- Restoring backed up data
+- Creating local user groups
+- Managing file permissions
 - Setting file permissions and ownership
+- Managing fstab entries
+- Managing the startup process and related services
+- Managing user processes
+- Creating backups
+- Restoring backed up data
 
 **Local security**
 - Accessing the root account
