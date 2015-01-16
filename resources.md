@@ -9,3 +9,4 @@
 ## Paid Training Resources
 
 [Linux Foundation LFS220 course](http://training.linuxfoundation.org/linux-courses/system-administration-training/linux-system-administration) ([Course Outline](http://training.linuxfoundation.org/linux-courses/linux-system-administration/outline))
+[Linux Foundation LFS230 course](https://training.linuxfoundation.org/linux-courses/system-administration-training/linux-network-management) ([Course Outline](https://training.linuxfoundation.org/linux-courses/linux-network-management/outline))
