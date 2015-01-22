@@ -5,7 +5,7 @@
 * Command-line
    * [Editing text files on the command line](editing_text_files_on_the_command_line.md)
    * [Manipulating text files from the command line](manipulating_text_files_from_the_command_line.md)
-* Filesystem & storage
+* [Filesystem & storage](filesystem_&_storage.md)
    * [File attributes](file_attributes.md)
    * Archiving and compressing files and directories
    * Finding files on the filesystem
@@ -33,6 +33,6 @@
    * Using sudo to manage access to the root account
 * Shell scripting
    * Basic bash shell scripting
-* [Software management](software_management.md)
+* Software management
    * Installing software packages
 
