@@ -30,4 +30,5 @@
 * Restoring backed up data
 * Local security
 * Accessing the root account
+* Using sudo to manage access to the root account
 
