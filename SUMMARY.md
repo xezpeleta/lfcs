@@ -13,4 +13,5 @@
 * Mounting networked filesystems
 * Partitioning storage devices
 * Assembling partitions as RAID devices
+* Troubleshooting filesystem issues
 
