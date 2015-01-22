@@ -21,4 +21,5 @@
 * Managing user accounts
 * Managing user account attributes
 * Creating local user groups
+* Managing file permissions
 
