@@ -1,5 +1,20 @@
 # Filesystem & storage
 
+
+Partitioning and Formatting Disks
+
+    Common Disk Types
+
+    Disk Geometry
+
+    Partitioning
+
+    Naming Disk Devices
+
+    Sizing up the partitions
+
+    Partition table editors
+    
 Linux Filesystems
 
     Some Notes About Filesystems
