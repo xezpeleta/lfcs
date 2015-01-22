@@ -23,4 +23,5 @@
 * Creating local user groups
 * Managing file permissions
 * Setting file permissions and ownership
+* Managing fstab entries
 
