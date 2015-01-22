@@ -29,4 +29,5 @@
 * Creating backups
 * Restoring backed up data
 * Local security
+* Accessing the root account
 
