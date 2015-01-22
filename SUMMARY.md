@@ -26,4 +26,5 @@
 * Managing fstab entries
 * Managing the startup process and related services
 * Managing user processes
+* Creating backups
 
