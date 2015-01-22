@@ -20,5 +20,10 @@ My name is Antton and my friend is Xabi.
 
 $ sed ‘s/y/Y/g’ gu.txt > gu2.txt
 $ cat gu2.txt
-MY name is Antton and mY friend is Xabi. 
+MY name is Antton and mY friend is Xabi.
+
+$ sed 's/and/\&/g;s/^I/You/g' gu2.txt
+$ cat gu2.txt
+MY name is Antton & mY friend is Xabi.
+
 ```
