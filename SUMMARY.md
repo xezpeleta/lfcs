@@ -19,4 +19,5 @@
 * Local system administration
 * Managing local users accounts
 * Managing user accounts
+* Managing user account attributes
 
