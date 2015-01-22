@@ -32,4 +32,5 @@
 * Accessing the root account
 * Using sudo to manage access to the root account
 * Shell scripting
+* Basic bash shell scripting
 
