@@ -49,7 +49,7 @@ More: http://www.cs.colostate.edu/helpdocs/vi.html
 
 ### Start Nano
 
-Edit file **readme.txt**:
+Edit file *readme.txt*:
 ```sh
 nano readme.txt
 ```
