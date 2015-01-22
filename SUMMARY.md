@@ -35,5 +35,5 @@
    * Basic bash shell scripting
 * [Software management](software_management.md)
    * Installing software packages
-* New I (Understanding Processes)
+* [New I (Understanding Processes)](new_i_understanding_processes.md)
 
