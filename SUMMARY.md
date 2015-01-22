@@ -24,4 +24,5 @@
 * Managing file permissions
 * Setting file permissions and ownership
 * Managing fstab entries
+* Managing the startup process and related services
 
