@@ -10,13 +10,17 @@ pipe
 $ command | command
 ```
 
-* different commands:
-    * cat 
+Different commands:
+    * ls
+    * cat
     * sed 
     * du
     * sort
-    * head 
-    * tail
+    * head *
+    * tail *
+    * uniq *
+    * grep
+    * cut
 
 
 example I (cat and sed)
@@ -81,6 +85,43 @@ $ du -sch /var/* | sort -h
 138M	/var/lib
 326M	total
 ```
+
+Example III (grep)
+```
+$ grep -rni backup /etc/passwd
+14:backup:x:34:34:backup:/var/backups:/bin/sh
+``` 
+
+```
+$ ls -l /etc | grep rc[0-9]
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc0.d
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc1.d
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc2.d
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc3.d
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc4.d
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc5.d
+drwxr-xr-x 2 root root    4096 ene 19 14:12 rc6.d
+
+```
+
+Example IV (cat and cut)
+
+If we filter the cat command output with cut we could decide to show the firs and seven columns of the file we are trying to see. (remember we could redirect into a new file as well with > newfile.txt)
+
+```
+$ cat /etc/passwd | cut -d: -f1,7
+root:/bin/bash
+daemon:/bin/sh
+bin:/bin/sh
+sys:/bin/sh
+sync:/bin/sync
+games:/bin/sh
+man:/bin/sh
+lp:/bin/sh
+mail:/bin/sh
+```
+
+
 
 
 
