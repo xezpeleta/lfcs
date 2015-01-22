@@ -40,7 +40,16 @@ There are several ways to quit *vi*:
 * Inserting text (ending current line): **A**
 * Deleting single character: **x**
 * Deleting entire current line: **dd**
+* Searching *string* in text: **/string**
+* Saving file: **:w**
 
 More: http://www.cs.colostate.edu/helpdocs/vi.html
 
 ## Nano
+
+### Start Nano
+
+Edit file **readme.txt**:
+```sh
+nano readme.txt
+```
