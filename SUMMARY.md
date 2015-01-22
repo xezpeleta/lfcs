@@ -27,4 +27,5 @@
 * Managing the startup process and related services
 * Managing user processes
 * Creating backups
+* Restoring backed up data
 
