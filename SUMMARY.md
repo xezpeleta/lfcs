@@ -37,5 +37,5 @@
    * Installing software packages
 * [New I (Understanding Processes)](new_i_understanding_processes.md)
 * [New II (Networking)](new_ii_networking.md)
-* New III (Backup and Recovery Methods)
+* [New III (Backup and Recovery Methods)](new_iii_backup_and_recovery_methods.md)
 
