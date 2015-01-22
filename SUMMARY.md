@@ -9,7 +9,7 @@
    * [File attributes](file_attributes.md)
    * [Archiving and compressing files and directories](archiving_and_compressing_files_and_directories.md)
    * [Finding files on the filesystem](finding_files_on_the_filesystem.md)
-   * Formatting filesystems
+   * [Formatting filesystems](formatting_filesystems.md)
    * Configuring swap partitions
    * Mounting filesystems automatically at boot time
    * Mounting networked filesystems
