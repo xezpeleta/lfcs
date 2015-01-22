@@ -8,9 +8,10 @@
 * Viewing permissions
     * What the columns mean
     * What the permissions mean
-    * Folders
+    * Directory
     * Files
 
-
+chmod [new_mode] file/directory
+chown [new_mode] file/directory
 
 https://wiki.archlinux.org/index.php/File_permissions_and_attributes
