@@ -17,4 +17,5 @@
    * Assembling partitions as RAID devices
    * Troubleshooting filesystem issues
 * Local system administration
+* Managing local users accounts
 
