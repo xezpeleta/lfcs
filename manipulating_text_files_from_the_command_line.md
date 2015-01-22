@@ -5,12 +5,19 @@ redirection
 $ command > file.txt
 $ command >> file.txt (adding)
 ```
+pipe
+```
+$ command | command
+```
 
 * different commands:
-    cat 
-    tail 
-    head 
-    sed
+    * cat 
+    * sed 
+    * du
+    * sort
+    * head 
+    * tail
+
 
 example I (cat and sed)
 
@@ -39,6 +46,41 @@ You have a green tree.
 You & I, we are friends.
 ```
 
+Example II (du and sort)
+```
+$ du -sch /var/* | sort
+0	/var/lock
+0	/var/run
+123M	/var/opt
+138M	/var/lib
+15M	/var/log
+326M	total
+4,0K	/var/backups
+4,0K	/var/local
+4,0K	/var/mail
+4,0K	/var/tmp
+51M	/var/cache
+60K	/var/chef
+888K	/var/spool
+```
+
+lets add the -h into the sort command.
+```
+$ du -sch /var/* | sort -h
+0	/var/lock
+0	/var/run
+4,0K	/var/backups
+4,0K	/var/local
+4,0K	/var/mail
+4,0K	/var/tmp
+60K	/var/chef
+888K	/var/spool
+15M	/var/log
+51M	/var/cache
+123M	/var/opt
+138M	/var/lib
+326M	total
+```
 
 
 
