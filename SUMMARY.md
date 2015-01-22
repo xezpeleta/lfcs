@@ -21,7 +21,7 @@
    * Managing user accounts
    * Managing user account attributes
    * Creating local user groups
-   * Managing file permissions
+   * [Managing file permissions](managing_file_permissions.md)
    * Setting file permissions and ownership
    * Managing fstab entries
    * Managing the startup process and related services
@@ -36,6 +36,4 @@
 * [Software management](software_management.md)
    * Installing software packages
 * [New I (Understanding Processes)](new_i_understanding_processes.md)
-* [New II (Networking)](new_ii_networking.md)
-* [New III (Backup and Recovery Methods)](new_iii_backup_and_recovery_methods.md)
 
