@@ -20,4 +20,5 @@
 * Managing local users accounts
 * Managing user accounts
 * Managing user account attributes
+* Creating local user groups
 
