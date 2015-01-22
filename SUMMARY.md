@@ -10,4 +10,5 @@
 * Formatting filesystems
 * Configuring swap partitions
 * Mounting filesystems automatically at boot time
+* Mounting networked filesystems
 
