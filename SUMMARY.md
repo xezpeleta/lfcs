@@ -21,7 +21,7 @@
    * Managing user accounts
    * Managing user account attributes
    * Creating local user groups
-   * Managing file permissions
+   * [Managing file permissions](managing_file_permissions.md)
    * Setting file permissions and ownership
    * Managing fstab entries
    * Managing the startup process and related services
