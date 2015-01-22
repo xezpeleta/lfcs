@@ -18,4 +18,5 @@
    * Troubleshooting filesystem issues
 * Local system administration
 * Managing local users accounts
+* Managing user accounts
 
