@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Resources](resources.md)
+* Command-line
 * [Manipulating text files from the command line](manipulating_text_files_from_the_command_line.md)
 * [File attributes](file_attributes.md)
 * Archiving and compressing files and directories
@@ -14,5 +15,4 @@
 * Partitioning storage devices
 * Assembling partitions as RAID devices
 * Troubleshooting filesystem issues
-* Command-line
 
