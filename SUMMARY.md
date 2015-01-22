@@ -7,7 +7,7 @@
    * [Manipulating text files from the command line](manipulating_text_files_from_the_command_line.md)
 * Filesystem & storage
    * [File attributes](file_attributes.md)
-   * Archiving and compressing files and directories
+   * [Archiving and compressing files and directories](archiving_and_compressing_files_and_directories.md)
    * Finding files on the filesystem
    * Formatting filesystems
    * Configuring swap partitions
@@ -21,7 +21,7 @@
    * Managing user accounts
    * Managing user account attributes
    * Creating local user groups
-   * [Managing file permissions](managing_file_permissions.md)
+   * Managing file permissions
    * Setting file permissions and ownership
    * Managing fstab entries
    * Managing the startup process and related services
@@ -36,4 +36,6 @@
 * [Software management](software_management.md)
    * Installing software packages
 * [New I (Understanding Processes)](new_i_understanding_processes.md)
+* [New II (Networking)](new_ii_networking.md)
+* [New III (Backup and Recovery Methods)](new_iii_backup_and_recovery_methods.md)
 
