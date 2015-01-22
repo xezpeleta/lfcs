@@ -18,7 +18,7 @@
    * Troubleshooting filesystem issues
 * [Local system administration](local_system_administration.md)
    * Managing local users accounts
-   * Managing user accounts
+   * [Managing user accounts](managing_user_accounts.md)
    * Managing user account attributes
    * Creating local user groups
    * [Managing file permissions](managing_file_permissions.md)
