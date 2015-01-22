@@ -9,4 +9,5 @@
 * Finding files on the filesystem
 * Formatting filesystems
 * Configuring swap partitions
+* Mounting filesystems automatically at boot time
 
