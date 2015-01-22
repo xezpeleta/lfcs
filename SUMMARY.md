@@ -17,22 +17,22 @@
    * Assembling partitions as RAID devices
    * Troubleshooting filesystem issues
 * Local system administration
-* Managing local users accounts
-* Managing user accounts
-* Managing user account attributes
-* Creating local user groups
-* Managing file permissions
-* Setting file permissions and ownership
-* Managing fstab entries
-* Managing the startup process and related services
-* Managing user processes
-* Creating backups
-* Restoring backed up data
+    * Managing local users accounts
+    * Managing user accounts
+    * Managing user account attributes
+    * Creating local user groups
+    * Managing file permissions
+    * Setting file permissions and ownership
+    * Managing fstab entries
+    * Managing the startup process and related services
+    * Managing user processes
+    * Creating backups
+    * Restoring backed up data
 * Local security
-* Accessing the root account
-* Using sudo to manage access to the root account
+    * Accessing the root account
+    * Using sudo to manage access to the root account
 * Shell scripting
-* Basic bash shell scripting
+    * Basic bash shell scripting
 * Software management
-* Installing software packages
+    * Installing software packages
 
