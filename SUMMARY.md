@@ -7,4 +7,5 @@
 * [File attributes](file_attributes.md)
 * Archiving and compressing files and directories
 * Finding files on the filesystem
+* Formatting filesystems
 
