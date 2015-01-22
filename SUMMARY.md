@@ -28,4 +28,5 @@
 * Managing user processes
 * Creating backups
 * Restoring backed up data
+* Local security
 
