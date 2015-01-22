@@ -35,4 +35,5 @@
    * Basic bash shell scripting
 * [Software management](software_management.md)
    * Installing software packages
+* New I
 
