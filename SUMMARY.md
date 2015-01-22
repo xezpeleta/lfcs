@@ -33,6 +33,6 @@
    * Using sudo to manage access to the root account
 * Shell scripting
    * Basic bash shell scripting
-* Software management
+* [Software management](software_management.md)
    * Installing software packages
 
