@@ -34,4 +34,5 @@
 * Shell scripting
 * Basic bash shell scripting
 * Software management
+* Installing software packages
 
