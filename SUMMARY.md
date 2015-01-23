@@ -14,7 +14,7 @@
    * Mounting filesystems automatically at boot time
    * Mounting networked filesystems
    * Partitioning storage devices
-   * Assembling partitions as RAID devices
+   * [Assembling partitions as RAID devices](assembling_partitions_as_raid_devices.md)
    * Troubleshooting filesystem issues
 * [Local system administration](local_system_administration.md)
    * Managing local users accounts
