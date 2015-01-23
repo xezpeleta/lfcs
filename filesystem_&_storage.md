@@ -21,11 +21,11 @@ Linux Filesystems
 
     Filesystem Types
 
-    XFS
+    XFS (https://www.youtube.com/watch?v=-rZn8wUIz1g )
 
-    ext4
+    ext4 ( https://www.youtube.com/watch?v=C725TehKBiQ )
 
-    btrfs
+    btrfs ( https://www.youtube.com/watch?v=wso_gZwr9oQ )
 
     Extended Attributes
 
@@ -33,7 +33,7 @@ Linux Filesystems
 
     How to Attach a Filesystem
 
-    Getting your Quota
+    Getting your Quota ( https://www.youtube.com/watch?v=DqQlceYP0N8 )
 
     Checking and Repairing Filesystems
 
@@ -54,5 +54,10 @@ Advanced Filesystem Management
     Creating Logical Volumes
 
     Resizing Logical Volumes
+    
+https://www.youtube.com/watch?v=InhmpDtk49c
+
+
+
 
     LVM Snapshots
