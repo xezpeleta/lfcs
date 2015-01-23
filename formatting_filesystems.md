@@ -10,4 +10,3 @@
 * $ swapon -v /dev/sdX1
 * $ cat /proc/swaps
 * $ swapoff /dev/sdX1 (disable swap)
-* 
